@@ -1,14 +1,14 @@
 Link to unlisted Youtubne Video:
-https://youtu.be/kCap4rLwz3Y
+https://youtu.be/EHhuPWAHr8E
 
 Public link to slide: 
-https://docs.google.com/presentation/d/1c07Hsr6Oa03WXOpK-FL5YiPxdBZzxaXW_rvTPGipXps/edit?usp=sharing
+https://docs.google.com/presentation/d/1yEiPvc_Nz97DOYL_zUMIGIFndsA5ISbTJ2P80KorBoY/edit#slide=id.gc6fa3c898_0_0
 
 Paper Title: 
-Chittron An Automatic Bangla Image Captioning System
+Improved Bengali Image Captioning via Deep Convolutional Neural Network based encoder-decoder model
 
 Link to the Paper:
-https://arxiv.org/abs/1809.00339
+https://arxiv.org/abs/2102.07192
 
 Group Number:
 8
